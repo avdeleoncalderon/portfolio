@@ -1,6 +1,6 @@
 ﻿# Sprint 5 Telecom Revenue Optimization: Megaline User Behavior Study
 
-Description
+## Description
 A data-driven analysis of user behavior and profitability for Megaline's prepaid plans. By merging multiple datasets and performing T-tests, I identified revenue drivers and validated hypotheses regarding regional spending and plan performance to guide marketing budget allocation.
 
 ## **Business Objective**
