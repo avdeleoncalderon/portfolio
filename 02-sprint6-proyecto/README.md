@@ -1,6 +1,6 @@
-﻿# Sprint 5 Proyecto
+﻿# Sprint 6 Proyecto
 
-Análisis de datos del Proyecto 5.
+Análisis de datos del Proyecto 6.
 
 ## Archivo principal  
 - [notebook.ipynb](notebook.ipynb)
